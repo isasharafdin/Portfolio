@@ -5,7 +5,7 @@ Greetings! I am Mr Sharafdin, a passionate Software Engineer with a relentless t
 ## About Me
 At the core of my being lies an insatiable desire to learn and evolve. As a Software Engineer, I have dedicated myself to the pursuit of knowledge, always striving to stay on the cutting edge of advancements in my field. The world of science and technology fascinates me, and I consider it a privilege to be part of a realm that drives progress and transformation.
 
-- **Explore my world:** [Mr Sharafdin](https://www.mr.sharafdin.com)
+- **Explore my world:** [Mr Sharafdin](https://mr.sharafdin.com)
 
 ## Unveiling My Passions
 My interests are as diverse as the world I navigate. Here are a couple of realms that hold a special place in my heart:
