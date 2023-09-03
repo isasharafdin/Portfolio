@@ -72,7 +72,6 @@ img.next-image {
 html {
   background-color:black;
   color: white;
-  overflow: hidden;
   height: 100%;
   -webkit-user-select: none;
      -moz-user-select: none;

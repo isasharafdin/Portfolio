@@ -1,6 +1,6 @@
 ---
 title: Markdown Examples
-date: 16/08/2023
+date: 08/16/2023
 description: View examples of all possible Markdown options.
 tag: web development
 author: Mr Sharafdin

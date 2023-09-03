@@ -1,6 +1,6 @@
 ---
 title: Next.js Pages
-date: 16/08/2023
+date: 08/16/2023
 description: Learn more about Next.js pages.
 tag: web development
 author: Mr Sharafdin
