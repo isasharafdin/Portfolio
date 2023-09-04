@@ -4,7 +4,7 @@ const NotFoundPage = () => {
   return (
     <>
       <a
-        href="http://localhost:3000/"
+        href="https://mr.sharafdin.com/"
         className="viewFull"
         target="_parent"
       >
