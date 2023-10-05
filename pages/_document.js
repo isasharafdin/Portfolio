@@ -21,6 +21,7 @@ export default function Document() {
         <meta name="twitter:title" content={meta.title} />
         <meta name="twitter:description" content={meta.description} />
         <meta name="twitter:image" content={meta.image} />
+        <meta name="google-site-verification" content="at2xv7-NdwIQKD_DXL2eiTl1rMgW-eYEhZqGCwguAp4" />
       </Head>
       <body>
         <Main />
